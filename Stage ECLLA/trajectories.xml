@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ambiscore>
+	<trajectory index="figure1">
+		<point>
+			<time>0</time>
+			<xyz>0.582764 -0.855107 0.000000</xyz>
+		</point>
+		<point>
+			<time>100</time>
+			<xyz>0.429845 -0.875497 0.000000</xyz>
+		</point>
+		<point>
+			<time>200</time>
+			<xyz>0.266733 -0.885691 0.000000</xyz>
+		</point>
+		<point>
+			<time>300</time>
+			<xyz>0.011869 -0.895886 0.000000</xyz>
+		</point>
+		<point>
+			<time>400</time>
+			<xyz>-0.171632 -0.875497 0.000000</xyz>
+		</point>
+		<point>
+			<time>500</time>
+			<xyz>-0.273578 -0.865302 0.000000</xyz>
+		</point>
+		<point>
+			<time>600</time>
+			<xyz>-0.293967 -0.865302 0.000000</xyz>
+		</point>
+		<point>
+			<time>4100</time>
+			<xyz>-0.263383 -0.834718 0.000000</xyz>
+		</point>
+		<point>
+			<time>4200</time>
+			<xyz>-0.161438 -0.763357 0.000000</xyz>
+		</point>
+		<point>
+			<time>4300</time>
+			<xyz>-0.090076 -0.702189 0.000000</xyz>
+		</point>
+		<point>
+			<time>4400</time>
+			<xyz>0.011869 -0.630828 0.000000</xyz>
+		</point>
+		<point>
+			<time>4500</time>
+			<xyz>0.134204 -0.579855 0.000000</xyz>
+		</point>
+		<point>
+			<time>4600</time>
+			<xyz>0.215760 -0.549271 0.000000</xyz>
+		</point>
+		<point>
+			<time>4700</time>
+			<xyz>0.297316 -0.518688 0.000000</xyz>
+		</point>
+		<point>
+			<time>4800</time>
+			<xyz>0.358484 -0.498299 0.000000</xyz>
+		</point>
+		<point>
+			<time>4900</time>
+			<xyz>0.419651 -0.477910 0.000000</xyz>
+		</point>
+		<point>
+			<time>5000</time>
+			<xyz>0.440040 -0.457520 0.000000</xyz>
+		</point>
+		<point>
+			<time>5100</time>
+			<xyz>0.409456 -0.437131 0.000000</xyz>
+		</point>
+		<point>
+			<time>5200</time>
+			<xyz>0.297316 -0.386159 0.000000</xyz>
+		</point>
+		<point>
+			<time>5300</time>
+			<xyz>0.103620 -0.314797 0.000000</xyz>
+		</point>
+		<point>
+			<time>5400</time>
+			<xyz>-0.049298 -0.284213 0.000000</xyz>
+		</point>
+		<point>
+			<time>5500</time>
+			<xyz>-0.212411 -0.253630 0.000000</xyz>
+		</point>
+		<point>
+			<time>5600</time>
+			<xyz>-0.385718 -0.233241 0.000000</xyz>
+		</point>
+		<point>
+			<time>5700</time>
+			<xyz>-0.446885 -0.212851 0.000000</xyz>
+		</point>
+		<point>
+			<time>5800</time>
+			<xyz>-0.477469 -0.212851 0.000000</xyz>
+		</point>
+		<point>
+			<time>5900</time>
+			<xyz>-0.467274 -0.182268 0.000000</xyz>
+		</point>
+		<point>
+			<time>6000</time>
+			<xyz>-0.385718 -0.151684 0.000000</xyz>
+		</point>
+		<point>
+			<time>6100</time>
+			<xyz>-0.161438 -0.121101 0.000000</xyz>
+		</point>
+		<point>
+			<time>6200</time>
+			<xyz>0.011869 -0.141490 0.000000</xyz>
+		</point>
+		<point>
+			<time>6300</time>
+			<xyz>0.185177 -0.151684 0.000000</xyz>
+		</point>
+		<point>
+			<time>6400</time>
+			<xyz>0.327900 -0.059933 0.000000</xyz>
+		</point>
+		<point>
+			<time>6500</time>
+			<xyz>0.399262 0.021623 0.000000</xyz>
+		</point>
+		<point>
+			<time>6600</time>
+			<xyz>0.419651 0.052207 0.000000</xyz>
+		</point>
+		<point>
+			<time>6700</time>
+			<xyz>0.327900 0.123568 0.000000</xyz>
+		</point>
+		<point>
+			<time>6800</time>
+			<xyz>0.134204 0.205125 0.000000</xyz>
+		</point>
+		<point>
+			<time>6900</time>
+			<xyz>-0.090076 0.337654 0.000000</xyz>
+		</point>
+		<point>
+			<time>7000</time>
+			<xyz>-0.314356 0.439599 0.000000</xyz>
+		</point>
+		<point>
+			<time>7100</time>
+			<xyz>-0.395912 0.551739 0.000000</xyz>
+		</point>
+		<point>
+			<time>7200</time>
+			<xyz>-0.324551 0.623101 0.000000</xyz>
+		</point>
+		<point>
+			<time>7300</time>
+			<xyz>-0.161438 0.653684 0.000000</xyz>
+		</point>
+		<point>
+			<time>7400</time>
+			<xyz>-0.039103 0.643490 0.000000</xyz>
+		</point>
+		<point>
+			<time>7500</time>
+			<xyz>0.093426 0.684268 0.000000</xyz>
+		</point>
+		<point>
+			<time>7600</time>
+			<xyz>0.215760 0.857575 0.000000</xyz>
+		</point>
+		<point>
+			<time>7700</time>
+			<xyz>0.317706 0.969715 0.000000</xyz>
+		</point>
+		<point>
+			<time>7800</time>
+			<xyz>0.348289 1.010493 0.000000</xyz>
+		</point>
+		<point>
+			<time>7900</time>
+			<xyz>0.338095 1.051272 0.000000</xyz>
+		</point>
+		<point>
+			<time>8000</time>
+			<xyz>0.225955 1.051272 0.000000</xyz>
+		</point>
+		<point>
+			<time>8100</time>
+			<xyz>0.073037 1.051272 0.000000</xyz>
+		</point>
+		<point>
+			<time>8200</time>
+			<xyz>-0.059492 1.030882 0.000000</xyz>
+		</point>
+		<point>
+			<time>8300</time>
+			<xyz>-0.141049 1.030882 0.000000</xyz>
+		</point>
+		<point>
+			<time>8400</time>
+			<xyz>-0.171632 1.000299 0.000000</xyz>
+		</point>
+	</trajectory>
+</ambiscore>
